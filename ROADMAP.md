@@ -2,6 +2,8 @@
 
 > Tracked by Lucy. Each item is one day's work — small, focused, testable.
 > Daily cron picks the next unchecked item, builds it, tests it, pushes only when green.
+>
+> ⚠️ **Stack Decision Pending** (as of June 13, 2026): Matt is considering switching to Rust (Axum + tokio) instead of continuing with Fastify. Build cron PAUSED until decision is confirmed. If Rust: see `explorations/rabbit-holes/hearth-rust-architecture.md` for full equivalent stack + new Day 1 plan.
 
 ---
 
